@@ -1,16 +1,22 @@
 # ejercicio-integrador-git
 
-## Instalación
-1. Clona el repositorio: git clone https://github.com/aslhov/ejercicio-integrador-git
-2. Navega al directorio del proyecto: cd ejercicio-integrador-git
-3. Instala las dependencias: npm install
+## TechSolutions
 
-## Uso
+El proyecto ha encomendado la optimización del proceso de registro para mejorar la experiencia del usuario.
 
-1. Ejecuta la aplicación: npm start
-2. Abre tu navegador y ve a http://localhost:3000
+### Los pasos básicos para usar el proyecto son:
 
-## Contribución
+1. Se deben conducir una serie de pruebas de usabilidad rigurosas.
+2. Identificar fallas, estas deben ser rectificadas.
+3. La documentación técnica debe ser revisada y actualizada.
+
+### Instalación
+
+1. Clona el repositorio: git clone https://github.com/aslhov/ejercicio-integrador-git.
+2. Navega al directorio del proyecto: cd ejercicio-integrador-git.
+3. Instala las dependencias: npm install.
+
+### Contribución
 
 1. Haz un fork del repositorio
 2. Crea una rama para tu contribución: git checkout -b mi-contribucion
@@ -18,6 +24,5 @@
 4. Haz push a tu rama: git push origin mi-contribucion
 5. Abre un pull request en GitHub
 
-## Licencia
-
-Este proyecto está bajo la Licencia de Ejercicio Integrador Git. ¡Disfrútalo al máximo!
+Autor: Lorena Sorí Arévalo
+Email: arevalosori005@gmail.com
